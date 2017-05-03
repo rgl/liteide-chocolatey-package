@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>liteide</id>
+    <version>31.0.0</version>
+    <title>LiteIDE</title>
+    <authors>visualfc</authors>
+    <owners>Rui Lopes</owners>
+    <licenseUrl>https://www.gnu.org/licenses/lgpl-2.1.html</licenseUrl>
+    <packageSourceUrl>https://github.com/rgl/liteide-chocolatey-package</packageSourceUrl>
+    <projectUrl>https://github.com/visualfc/liteide</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/visualfc/liteide/master/liteidex/liteide-logo/liteide.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>LiteIDE is a simple, open source, cross-platform Go IDE.</description>
+    <summary>LiteIDE is a simple, open source, cross-platform Go IDE.</summary>
+    <tags>ide go golang</tags>
+  </metadata>
+  <files>
+    <file src="tools\*" target="tools" />
+  </files>
+</package>
