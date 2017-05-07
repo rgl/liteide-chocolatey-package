@@ -9,6 +9,9 @@
     <licenseUrl>https://www.gnu.org/licenses/lgpl-2.1.html</licenseUrl>
     <packageSourceUrl>https://github.com/rgl/liteide-chocolatey-package</packageSourceUrl>
     <projectUrl>https://github.com/visualfc/liteide</projectUrl>
+    <projectSourceUrl>https://github.com/visualfc/liteide</projectSourceUrl>
+    <bugTrackerUrl>https://github.com/visualfc/liteide/issues</bugTrackerUrl>
+    <mailingListUrl>https://groups.google.com/group/liteide-dev</mailingListUrl>
     <iconUrl>https://raw.githubusercontent.com/visualfc/liteide/master/liteidex/liteide-logo/liteide.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>LiteIDE is a simple, open source, cross-platform Go IDE.</description>
