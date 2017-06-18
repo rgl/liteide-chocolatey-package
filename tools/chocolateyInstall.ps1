@@ -1,8 +1,8 @@
 $ErrorActionPreference = 'Stop'
 
 $packageName = 'liteide'
-$url = 'https://github.com/visualfc/liteide/releases/download/x31/liteidex31.windows-qt5.zip'
-$sha256 = 'dbb31c0765d875e56d3d3a05327bd7b69aa6950c144d524358cbe08a0833ca46'
+$url = 'https://sourceforge.net/projects/liteide/files/X32/liteidex32-2.windows-qt5.zip/download'
+$sha256 = '0fa66c414a7e7af0cdaf8273c5fc6c11fca34e2849aaf573b6d8e83a252c8dac'
 $installPath = Split-Path -Parent $MyInvocation.MyCommand.Definition
 
 Install-ChocolateyZipPackage `
