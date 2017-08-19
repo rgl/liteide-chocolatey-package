@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>liteide</id>
-    <version>32.0.0</version>
+    <version>32.2.0</version>
     <title>LiteIDE</title>
     <authors>visualfc</authors>
     <owners>Rui Lopes</owners>
