@@ -22,5 +22,5 @@ Get-ChildItem `
     | Out-Null
 
 Install-ChocolateyShortcut `
-  -ShortcutFilePath "$([Environment]::GetFolderPath('CommonStartMenu'))\Programs\LiteIDE.lnk" `
-  -TargetPath "$installPath\liteide\bin\liteide.exe"
+    -ShortcutFilePath "$([Environment]::GetFolderPath('CommonStartMenu'))\Programs\LiteIDE.lnk" `
+    -TargetPath "$installPath\liteide\bin\liteide.exe"
