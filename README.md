@@ -1,3 +1,6 @@
+[![Latest version released](https://img.shields.io/chocolatey/v/liteide.svg)](https://chocolatey.org/packages/liteide)
+[![Package downloads count](https://img.shields.io/chocolatey/dt/liteide.svg)](https://chocolatey.org/packages/liteide)
+
 This repository contains the [liteide chocolatey package](https://chocolatey.org/packages/liteide) source for the [LiteIDE](https://github.com/visualfc/liteide) application.
 
 Run `choco pack` to create the chocolatey nuget package.
